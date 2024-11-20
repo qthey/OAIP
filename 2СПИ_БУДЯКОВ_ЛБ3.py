@@ -1,7 +1,5 @@
 def main():
-
-    # # 1 задание
-
+    
     # while True:
     #     x = input("Введите строку:")
     #     if x == "":
