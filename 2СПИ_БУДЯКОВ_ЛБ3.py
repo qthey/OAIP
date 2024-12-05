@@ -19,13 +19,16 @@ def main():
 
     # # 3 задание
 
-    # first_max = 0
-    # second_max = 0
+    # m_num = [-999]
     # while True:
-    #     num = int(input())
-    #     if abd(num) >= 1000:
-    #         break
-    #     if
+    #    num = float(input())
+    #    if num >= 1000 or num <= -1000:
+    #        break
+    #    if num > m_num[-1]
+    #        m_num += [num]
+    #print(m_num[-2])
+
+   
 
     # # 4 задание
 
