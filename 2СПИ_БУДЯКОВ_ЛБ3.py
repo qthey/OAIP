@@ -1,35 +1,35 @@
 def main():
     
     # while True:
-    #     x = input("Введите строку:")
+    #     x = input()
     #     if x == "":
     #         break
-    #     print("Длина этой строки:", len(x))
+    #     print(len(x))
 
     # # 2 задание
 
     # count = 0
     # while True:
-    #     x = float(input("Введите число:"))
+    #     x = float(input())
     #     if x > 36.6:
     #         break
     #     elif x <= 36.6:
     #         count += 1
-    # print("Количество отрицательных чиел:", count)
+    # print(count)
 
     # # 3 задание
 
     # first_max = 0
     # second_max = 0
     # while True:
-    #     num = int(input("Введите число: "))
+    #     num = int(input())
     #     if abd(num) >= 1000:
     #         break
     #     if
 
     # # 4 задание
 
-    # num = input("Введите числа через пробел: ")
+    # num = input()
     # num_list = num.split(" ")
     # num_list = list(map(float, num_list))
     # min_num = num_list[0]
@@ -42,7 +42,7 @@ def main():
 
     # # 5 задание
 
-    # num = float(input("Введите число: "))
+    # num = float(input())
     # while True:
     #     if num == 0:
     #         break
@@ -55,7 +55,7 @@ def main():
     #         print("Опасное")
     #     else:
     #         print(num)
-    #     num = float(input("Введите число: "))
+    #     num = float(input())
 
     # # 6 задание
 
@@ -73,21 +73,21 @@ def main():
 
     # # 8 задание
 
-    # word = [input("Введите слово: ")]
+    # word = [input()]
     # small_word = [word[0]]
     # while word[-1] != "стоп":
     #     if len(word[-1]) < len(small_word[-1]):
     #         small_word = [word[-1]]
-    #     word.append(input("Введите слово: "))
+    #     word.append(input())
     # print(small_word[0])
 
     # # 9 задание
 
-    # num = float(input("Введите число: "))
-    # operator = input("Введите операцию: ")
+    # num = float(input())
+    # operator = input()
     # result = num
     # while operator != "стоп":
-    #     num = float(input("Введите число: "))
+    #     num = float(input())
     #     if operator == "+":
     #         result += num
     #     elif operator == "-":
@@ -99,13 +99,13 @@ def main():
     #     elif operator == "**":
     #         result **= num
     #     print(result)
-    #     operator = input("Введите операцию: ")
+    #     operator = input()
 
     # # 10 задание
 
     # result = ""
     # while True:
-    #     word = input("Введите слово или !: ")
+    #     word = input()
     #     if word == "стоп":
     #         break
     #     result += word + " "
