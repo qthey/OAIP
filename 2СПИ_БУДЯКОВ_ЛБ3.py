@@ -73,6 +73,25 @@ def main():
     # print(a)
 
     # # 7 задание
+    
+    #x = int(input())
+    #y = int(input())
+    #z = int(input())
+    #fit_count = 0
+    #total_boxes = 0
+    #while True:
+        #small_width = int(input())
+        #if small_width == 0:
+            #break
+        #small_length = int(input())
+        #small_height = int(input())
+        #total_boxes += 1
+        #if small_width <= x and small_length <= y and small_height <= z:
+            #fit_count += 1
+    #if fit_count == total_boxes:
+        #print("Да")
+    #else:
+        #print("Нет")
 
     # # 8 задание
 
